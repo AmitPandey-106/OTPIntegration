@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "542855788026",
+    "firebase_url": "https://fluttertextdb-default-rtdb.firebaseio.com",
+    "project_id": "fluttertextdb",
+    "storage_bucket": "fluttertextdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542855788026:android:1a85b64393d928090e6043",
+        "android_client_info": {
+          "package_name": "com.amit.viva"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzuIMrKdiWa0RuFYbMmysckxgR823Z4Ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
